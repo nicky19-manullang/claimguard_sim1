@@ -1,0 +1,19 @@
+# Cache Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Model hasil training
+*.pkl
+*.joblib
+*.h5
+*.pt
+*.pth
+
+# Hasil eksperimen
+out/
+robustness/
+
+# Jupyter Notebook checkpoint
+.ipynb_checkpoints/
